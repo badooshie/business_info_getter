@@ -1,0 +1,3 @@
+I sometimes find myself overwhelmed with all of the search results appearing on tools like yelp and google.  This tool aims to clear the confusion by grabbing results off of yelp page, then using each result to pull important information used to grade a result. Once this information is obtained, I will run the info through some calculations to rate and score each result and return an optium choice.
+
+Honestly, this came from haveing a poor experience at a denstist and wanting a better way to filter out the bad apples.
